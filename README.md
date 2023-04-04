@@ -13,4 +13,5 @@ Else: if everything is ok with the connection, program will give a feedback in t
 console and will quit.
 
 If you would like to know more about the function, how it works exactly, please feel free to read this article: 
+
 https://time.com/4894182/twitter-company-complaints/
